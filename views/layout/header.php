@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <base href="https://souheila18.github.io/ReaDesign/" />
+    <base href="https://readesign.emu.isfsc.be" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
